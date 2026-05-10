@@ -24,9 +24,9 @@ Mastering the art of "Steering" Large Language Models (LLMs) to move from generi
 ### Technical Workflow Documentation
 The following snapshots provide a visual overview of my documented Prompt Engineering strategies:
 
-![Prompt Engineering Page 1](./PROMPT%20ENGINEERING%20page1.jpg)
-![Prompt Engineering Page 2](./PROMPT%20ENGINEERING%20page2.jpg)
-![Prompt Engineering Page 3](./PROMPT%20ENGINEERING%20page3.jpg)
+![Prompt Engineering Page 1](./Prompt%20Engineering/PROMPT-ENGINEERING%20page1.jpg)
+![Prompt Engineering Page 2](./Prompt%20Engineering/PROMPT-ENGINEERING%20page2.jpg)
+![Prompt Engineering Page 3](./Prompt%20Engineering/PROMPT-ENGINEERING%20page3.jpg)
 
 ### Core Techniques & Methodologies
 * **Chain-of-Thought (CoT):** Implementing step-by-step reasoning to eliminate logical and arithmetic errors.
@@ -35,8 +35,8 @@ The following snapshots provide a visual overview of my documented Prompt Engine
 * **Technical Constraints:** Managing System vs. User prompts, Temperature settings, and Token efficiency.
 
 ### Technical Artifacts
-* **Full Documentation:** [Download PROMPT ENGINEERING.pdf](./PROMPT%20ENGINEERING.pdf)
-* **Prompt Library:** [View Detailed Prompt Examples](./technical-prompts.md)
+* **Full Documentation:** [Download PROMPT-ENGINEERING.pdf](./Prompt%20Engineering/PROMPT-ENGINEERING.pdf)
+* **Prompt Library:** [View Detailed Prompt Examples](./Prompt%20Engineering/technical-prompts.md)
 
 ---
 ## 🐍 Next Milestone: Python for Data Science
