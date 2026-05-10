@@ -21,6 +21,13 @@ The following snapshots provide a visual overview of my documented Git processes
 ## Week 2: Strategic Prompt Engineering
 Mastering the art of "Steering" Large Language Models (LLMs) to move from generic outputs to high-precision, technical results. This section documents the transition from simple chatting to Natural Language Programming.
 
+### Technical Workflow Documentation
+The following snapshots provide a visual overview of my documented Prompt Engineering strategies:
+
+![Prompt Engineering Page 1](./Prompt-Engineering/PROMPT%20ENGINEERING%20page1.jpg)
+![Prompt Engineering Page 2](./Prompt-Engineering/PROMPT%20ENGINEERING%20page2.jpg)
+![Prompt Engineering Page 3](./Prompt-Engineering/PROMPT%20ENGINEERING%20page3.jpg)
+
 ### Core Techniques & Methodologies
 * **Chain-of-Thought (CoT):** Implementing step-by-step reasoning to eliminate logical and arithmetic errors.
 * **Few-Shot Prompting:** Utilizing Input-Output patterns to automate complex formatting and classification.
