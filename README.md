@@ -28,7 +28,8 @@ Mastering the art of "Steering" Large Language Models (LLMs) to move from generi
 * **Technical Constraints:** Managing System vs. User prompts, Temperature settings, and Token efficiency.
 
 ### Technical Artifacts
-* **Full Documentation:** * **Full Documentation:** [Download Prompt Engineering.pdf](./Prompt-Engineering/Prompt%20Engineering.pdf)
+* **Full Documentation:** [Download Prompt Engineering.pdf](./Prompt-Engineering/Prompt%20Engineering.pdf)
+* **Prompt Library:** [View Detailed Prompt Examples](./Prompt-Engineering/technical-prompts.md)
 
 ---
 ## 🐍 Next Milestone: Python for Data Science
