@@ -43,7 +43,7 @@ Documenting a rigorous, hands-on deep dive into Core Python and Object-Oriented 
 
 ### 📁 Technical Artifacts & Directories
 * **Complete Documentation:** [Download Python-Journey.pdf](./AI%20Using%20Python/Python.pdf)
-* **Core Practice Registry:** [Browse 49+ Fundamental Scripts](./AI%20Using%20Python/)
+* **Core Practice Registry:** [Browse Python Scripts](./AI%20Using%20Python/)
 * **Application Blueprints:** [Explore Python Mini-Projects](./Python-Mini-Projects/)
 
 ### 🖼️ Core Concepts Overview
