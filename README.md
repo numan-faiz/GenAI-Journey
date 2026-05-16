@@ -49,9 +49,9 @@ Documenting a rigorous, hands-on deep dive into Core Python and Object-Oriented 
 ### 🖼️ Core Concepts Overview
 Below are the documented conceptual mappings of my Python programming fundamentals sprint:
 
-![Python Blueprint Page 1](./AI%20Using%20Python/Python-page-1.jpg)
+![Python Blueprint Page 1](./AI%20Using%20Python/python-page-1.jpg)
 
-![Python Blueprint Page 2](./AI%20Using%20Python/Python-page-2.jpg)
+![Python Blueprint Page 2](./AI%20Using%20Python/python-page-2.jpg)
 
 ### 📚 Technical Core Competencies Mastered
 
