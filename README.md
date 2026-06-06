@@ -89,3 +89,49 @@ With the core backend logic, algorithmic structures, and object behaviors fully 
 
 * **Target Libraries:** Accelerating straight into the Data Science heavyweights: **NumPy, Pandas, Matplotlib, and Seaborn**.
 * **Objective:** Transitioning programmatic logic into mathematical arrays, structured data frames, and interactive visual dashboards to prepare analytical layers for upcoming Large Language Model (LLM) integrations.
+
+---
+
+## 📊 Week 5 & 6: Data Science Stack & Advanced Exploratory Data Analysis (EDA)
+Documenting a rigorous deep dive into computational data manipulation architectures and statistical visualizations to build the core data ingestion engine required for applied Machine Learning models.
+
+### Technical Artifacts & Directories
+* **Libraries Practice Registry:** [Browse Data Science Scripts](./Python-Data-Science-Libraries/)
+* **Advanced EDA Portfolios:** [Explore Production-Grade EDA Projects](./Exploratory-Data-Analysis-Projects/)
+
+### 📚 Technical Core Competencies Mastered
+
+#### 1. Computational Mathematics (NumPy)
+* **Vectorized Processing:** Mastered multi-dimensional arrays, multi-axis vector spaces, high-performance matrix slicing, and memory-efficient data representations.
+* **Algorithmic Math:** Implemented custom mathematical transformations, broadcasting mechanics, and array reshaping workflows directly within VS Code.
+
+#### 2. Data Engineering Pipelines (Pandas)
+* **Structural Manipulation:** Mastered complex DataFrames, multi-index merging, data ingestion pipelines, parsing, and advanced filtering configurations.
+* **Data Profiling:** Deployed advanced cleaning protocols for structural anomalies, data type casting, profiling configurations, and handling missing matrices.
+
+#### 3. Statistical Analytics & Visualizations (Matplotlib & Seaborn)
+* **Exploratory Dashboards:** Engineered production-grade data visualizations, distribution curves, and high-dimensional variation charts.
+* **Relational Mapping:** Deployed advanced correlation heatmaps, pairplots, scatter plots, and categorical countplots to uncover hidden trends in unstructured datasets.
+
+### 🚀 Featured Production-Grade Portfolios Engineered
+
+All open-source implementation scripts and analytical notebooks are compiled within the [Exploratory-Data-Analysis-Projects](./Exploratory-Data-Analysis-Projects/) and [Python-Data-Science-Libraries](./Python-Data-Science-Libraries/) registries:
+
+1. **Titanic Survival Vectors Analysis** (`titanic_exploratory_data_analysis.ipynb`)
+   * *Core Logic:* Applied comprehensive data profiling to impute missing metrics, map complex structural variations, and isolate historical survival vectors.
+2. **Loan Risk Assessment** (`Loan_Risk_Analysis_&_Feature_Engineering_Project.py`)
+   * *Core Logic:* Executed deep statistical feature engineering to analyze structural customer parameters and evaluate risk profiling configurations.
+3. **Retail Sales Ingestion Engine** (`Retail_Sales_Data Analysis_and_visualization_project.py`)
+   * *Core Logic:* Built real-world retail sales transaction models to track consumer buying behavior and generate trend analysis dashboards.
+4. **Insurance Cost Audit**
+   * *Core Logic:* Applied advanced feature mapping and demographic data profiling to isolate correlation coefficients across variable cost factors.
+5. **Netflix Relational Data Audit**
+   * *Core Logic:* Processed and mapped massive media streams to evaluate multi-categorical trends, global distribution curves, and content matrices.
+
+---
+
+## 🛡️ Next Strategic Milestone: Applied Mathematics & Core Machine Learning Engine
+With the full data ingestion and exploratory engine completely established, the programmatic and analytical layers are locked.
+
+* **Target Mathematics:** Accelerating straight into the foundational math layer: **Linear Algebra** (Vector transformations, Eigenvalues, Matrix Factorization) and **Applied Statistics**.
+* **Target Architecture:** Deploying production-ready Supervised and Unsupervised Machine Learning Frameworks (Regression, Classification, and Clustering architectures).
