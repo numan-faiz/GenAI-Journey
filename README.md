@@ -136,4 +136,49 @@ With the full data ingestion and exploratory engine completely established, the 
 * **Target Mathematics:** Accelerating straight into the foundational math layer: **Linear Algebra** (Vector transformations, Eigenvalues, Matrix Factorization) and **Applied Statistics**.
 * **Target Architecture:** Deploying production-ready Supervised and Unsupervised Machine Learning Frameworks (Regression, Classification, and Clustering architectures).
 
+---
+
+---
+
+## 🤖 Week 7 & 8: Computational Mathematics & Core Machine Learning Engines
+
+Documenting an extensive mathematical-to-code sprint dedicated to mastering foundational algorithmic mechanics, statistical loss functions, and core predictive modeling architectures. Inside VS Code, frameworks were stripped away to implement baseline optimization models from scratch before deploying high-performance production pipelines.
+
+### 🖼️ Core Conceptual Framework & Roadmap
+Below is the structural visualization map used to navigate across Regression, Classification, and Unsupervised Clustering topologies:
+
+![Machine Learning Roadmap](./Machine-Learning/cheetsheet.jpeg)
+
+### 📚 Technical Core Competencies Mastered
+
+#### 1. Applied Mathematics & Optimization Foundations
+* **Linear Algebra Matrices:** Mastered vector spaces, structural Matrix Multiplications (Dot Products), calculation determinants, matrix inversion, and Eigenvalues/Eigenvectors.
+* **Applied Statistics & Probability:** Implemented descriptive feature profiling (Variance, Standard Deviation) and mapped continuous data behavior through Normal Distributions and probability curves.
+* **Loss Optimization Engines:** Engineered mathematical tracking for linear relationships, cost function architectures, Mean Squared Error (MSE) calculation, and Gradient Descent optimization routines.
+* **Dimensionality Reduction:** Mastered Principal Component Analysis (PCA) driven by Eigenvector projections to compress high-dimensional datasets while conserving variance.
+
+#### 2. Supervised Learning Engines (Regression & Classification)
+* **Linear & Logistic Architectures:** Built and verified a complete Linear Regression model from scratch using pure Python and NumPy loops before scaling implementation through Scikit-Learn.
+* **Decision Tree Architectures:** Controlled mathematical data splitting mechanics, structural feature selection parameters, and tree depth optimization, paired with Cost-Complexity Pruning to eliminate overfitting.
+* **Ensemble Frameworks:** Deployed Random Forests, mastering Feature Importance mapping, Out-of-Bag (OOB) error estimation, and rigorous Hyperparameter Tuning.
+* **Advanced Classifiers:** Mastered Support Vector Machines (SVM Max-Margin Concepts and the Kernel Trick), k-Nearest Neighbors (k-NN distance metric tuning), and probabilistic Naive Bayes (Gaussian, Multinomial, and Bernoulli variants under Feature Independence assumptions).
+
+#### 3. Unsupervised Clustering Topologies
+* **k-Means Clustering:** Optimized cluster configurations ($k$) using structural Intra-Cluster Variance, Inertia tracking, and convergence profiling.
+* **Hierarchical Clustering:** Engineered Agglomerative vs. Divisive clustering models mapped cleanly via structural Dendrogram matrices.
+
+---
+
+### 📁 Production Codebase Registry
+All mathematical optimization scripts, customized core algorithms, and Scikit-Learn production pipelines from lectures 094 to 142 are fully structured and compiled inside the main folder.
+
+👉 **[Explore Full Machine Learning Code Directory](./Machine-Learning/)**
+
+---
+
+## 🛡️ Next Strategic Milestone: Deep Learning Tier & Neural Architectures
+With classical algorithms, optimization gradients, and high-dimensional vector math fully operating in production, the predictive layer is secured.
+
+* **Target Theory:** Deep dive into Perceptron calculus, Backpropagation multi-layer chains, and Activation Functions ($ReLU$, $Sigmoid$, $Softmax$).
+* **Target Integration:** Writing multi-layered custom Multi-Layer Perceptrons (MLPs) from scratch before scaling into deep structural neural networks.
 
