@@ -1,4 +1,4 @@
-# Generative AI Learning Journey
+# My Generative AI Learning Journey
 
 This repository serves as a professional record of my technical progress and documentation as I transition into the field of Generative AI.
 
@@ -135,3 +135,5 @@ With the full data ingestion and exploratory engine completely established, the 
 
 * **Target Mathematics:** Accelerating straight into the foundational math layer: **Linear Algebra** (Vector transformations, Eigenvalues, Matrix Factorization) and **Applied Statistics**.
 * **Target Architecture:** Deploying production-ready Supervised and Unsupervised Machine Learning Frameworks (Regression, Classification, and Clustering architectures).
+
+
