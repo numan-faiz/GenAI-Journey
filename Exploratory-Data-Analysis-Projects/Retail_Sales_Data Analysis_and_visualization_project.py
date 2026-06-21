@@ -8,9 +8,6 @@ from datetime import datetime
 import warnings
 warnings.filterwarnings('ignore')
 
-
-
-
 # setting up visualization
 plt.style.use('seaborn-v0_8')
 sns.set_palette("husl")
