@@ -51,7 +51,7 @@ Below are the documented conceptual mappings of my Python programming fundamenta
 
 ![Python Blueprint Page 1](./AI%20Using%20Python/python-page-1.jpg)
 
-![Python Blueprint Page 2](./AI%20Using%20Python/python-page-2.jpg)
+![Python Blueprint Page 2](./AI%20Using%20Python/Python-page-2.jpg)
 
 ### 📚 Technical Core Competencies Mastered
 
