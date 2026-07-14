@@ -183,7 +183,7 @@ With classical algorithms, optimization gradients, and high-dimensional vector m
 * **Target Integration:** Writing multi-layered custom Multi-Layer Perceptrons (MLPs) from scratch before scaling into deep structural neural networks.
 * ---
 
-## 🧠 Week 9 & 10: Deep Learning Foundations, Computer Vision, & Sequence Models
+## 🧠 Week 9 & 10: Deep Learning Foundations & Sequence Models
 
 Documenting an extensive transition into the Deep Learning tier, moving systematically from raw mathematical neuron calculus to spatial (CNN) and sequential (RNN/LSTM) network architectures. Inside VS Code, pipelines were built from scratch before leveraging TensorFlow and Keras to scale deep multi-layered systems.
 
