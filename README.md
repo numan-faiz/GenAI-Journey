@@ -181,4 +181,42 @@ With classical algorithms, optimization gradients, and high-dimensional vector m
 
 * **Target Theory:** Deep dive into Perceptron calculus, Backpropagation multi-layer chains, and Activation Functions ($ReLU$, $Sigmoid$, $Softmax$).
 * **Target Integration:** Writing multi-layered custom Multi-Layer Perceptrons (MLPs) from scratch before scaling into deep structural neural networks.
+* ---
+
+## 🧠 Week 9 & 10: Deep Learning Foundations, Computer Vision, & Sequence Models
+
+Documenting an extensive transition into the Deep Learning tier, moving systematically from raw mathematical neuron calculus to spatial (CNN) and sequential (RNN/LSTM) network architectures. Inside VS Code, pipelines were built from scratch before leveraging TensorFlow and Keras to scale deep multi-layered systems.
+
+### 📚 Technical Core Competencies Mastered
+
+#### 1. Artificial Neural Networks (ANN) & Activation Calculus
+* **Feedforward Architectures:** Mastered multi-input summation, bias adjustments, and forward propagation mechanics across network layers.
+* **Activation & Backpropagation:** Implemented Logistic (Sigmoid) activation barriers and mastered the chain-rule calculus of the Backpropagation Algorithm to dynamically update weight matrices.
+* **Training & Optimization Dynamics:** Controlled training parameters, fine-tuned Learning Rates, managed validation splits, and executed model evaluation metrics.
+* **Validation & Simulation:** Applied rigorous validation, cross-validation, and complete neural network simulations before framework deployment.
+* **Framework Scaling:** Built, compiled, trained, and evaluated deep feedforward neural networks using TensorFlow/Keras pipelines.
+
+#### 2. Computer Vision & Spatial Feature Extraction (CNN)
+* **Convolutional Pipelines:** Mastered the spatial math of feature mapping, pooling configurations, and convolutional kernels/filters.
+* **CNN Model Engineering:** Built, compiled, and trained deep Convolutional Neural Networks (CNNs) using TensorFlow/Keras to parse spatial structures.
+
+#### 3. Natural Language Processing & Sequence Topologies (RNN & LSTM)
+* **Recurrent Architectures:** Deployed sequential memory networks (RNNs) to preserve state dependencies across temporal steps.
+* **LSTM Memory Gates:** Solved the vanishing gradient problem by implementing Long Short-Term Memory (LSTM) cells featuring custom forget, input, and output gate structures in TensorFlow/Keras.
+
+---
+
+### 📁 Production Codebase Registry
+All mathematical neural networks, convolutional feature extractors, recurrent sequence models, and TensorFlow/Keras production pipelines from lectures 143 to 159 are fully structured and compiled inside the main folder.
+
+👉 **[Explore Full Deep Learning Code Directory](./Deep-Learnning/)**
+
+---
+
+## 🛡️ Next Strategic Milestone: Advanced Computer Vision & Edge AI
+With basic convolutional pipelines and sequential topologies fully established, the next phase transitions entirely into deploying state-of-the-art spatial intelligence systems and high-performance vision models.
+
+* **Object Detection & Segmentation:** Implementing real-time object detection systems using YOLO (You Only Look Once) frameworks and semantic pixel-level segmentation (U-Net).
+* **Transfer Learning & Feature Extraction:** Leveraging deep pre-trained vision architectures (such as ResNet, MobileNet, and VGG) for specialized custom image classification.
+* **Generative Vision & Video Processing:** Exploring Generative Adversarial Networks (GANs) for image synthesis alongside real-time multi-threaded video stream inference.
 
